@@ -15,6 +15,10 @@ h3 {
   color: aquamarine;
 }
 
+button {
+  background-color: aqua;
+}
+
 .absolute {
   background-color: bisque;
   position: absolute;
