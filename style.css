@@ -1,0 +1,36 @@
+* {
+  background-color: coral;
+}
+
+section {
+  outline: 2px dashed blue;
+  bottom: 40px;
+}
+
+article {
+  outline: 2px dotted lightblue;
+}
+
+h3 {
+  color: aquamarine;
+}
+
+.absolute {
+  background-color: bisque;
+  position: absolute;
+  outline: 2px dotted rgb(140, 127, 255);
+  width: 55%;
+  margin: 60px;
+  right: 20px;
+  bottom: 50px;
+}
+
+.notabsolute {
+  background-color: bisque;
+  position: static;
+  outline: 2px dotted rgb(140, 127, 255);
+  width: 55%;
+  margin: 60px;
+  right: 20px;
+  bottom: 50px;
+}
